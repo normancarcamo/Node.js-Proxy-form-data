@@ -1,0 +1,9 @@
+.title {
+  color: red;
+}
+
+
+#uploadbutton {
+  display: block;
+  margin-top: 1rem;
+}
